@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GiamSatTuXa.DungChung/GiamSatTuXa.DungChung.csproj" />
+  <Project Path="GiamSatTuXa.MayChu/GiamSatTuXa.MayChu.csproj" />
+  <Project Path="GiamSatTuXa.MayKhach/GiamSatTuXa.MayKhach.csproj" />
+  <Project Path="GiamSatTuXa.QuanTri/GiamSatTuXa.QuanTri.csproj" />
+</Solution>
