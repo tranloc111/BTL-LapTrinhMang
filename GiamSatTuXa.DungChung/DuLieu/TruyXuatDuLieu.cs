@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GiamSatTuXa.DungChung.DuLieu
 {
-    internal class TruyXuatDuLieu
+    public class TruyXuatDuLieu
     {
     }
 }
