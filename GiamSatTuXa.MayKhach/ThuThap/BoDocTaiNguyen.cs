@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GiamSatTuXa.MayKhach.ThuThap
 {
-    internal class BoDocTaiNguyen
+    public class BoDocTaiNguyen
     {
     }
 }

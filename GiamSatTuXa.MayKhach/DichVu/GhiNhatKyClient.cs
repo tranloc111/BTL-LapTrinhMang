@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GiamSatTuXa.MayKhach.DichVu
 {
-    internal class GhiNhatKyClient
+    public class GhiNhatKyClient
     {
     }
 }
